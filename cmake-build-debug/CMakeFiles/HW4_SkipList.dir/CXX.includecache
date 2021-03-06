@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Temesgen/CLionProjects/HW4_SkipList/SkipList.cpp
+skiplist.h
+C:/Users/Temesgen/CLionProjects/HW4_SkipList/skiplist.h
+iostream
+-
+cassert
+-
+climits
+-
+
+C:/Users/Temesgen/CLionProjects/HW4_SkipList/assignment4.cpp
+skiplist.h
+C:/Users/Temesgen/CLionProjects/HW4_SkipList/skiplist.h
+iostream
+-
+climits
+-
+
+C:/Users/Temesgen/CLionProjects/HW4_SkipList/skiplist.h
+iostream
+-
+
